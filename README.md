@@ -1,1 +1,1 @@
-# oauth2-github-aspnetcore3
+# oauth-2-with-github-and-asp-net-core-3

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTalk-GitHubOAuth2", "SimpleTalk-GitHubOAuth2\SimpleTalk-GitHubOAuth2.csproj", "{9ED5C8C8-C100-4B4B-AE5F-2F42E2193122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED5C8C8-C100-4B4B-AE5F-2F42E2193122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED5C8C8-C100-4B4B-AE5F-2F42E2193122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED5C8C8-C100-4B4B-AE5F-2F42E2193122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED5C8C8-C100-4B4B-AE5F-2F42E2193122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A6947BB-A741-403F-B1AE-C0718FEE7672}
+	EndGlobalSection
+EndGlobal
