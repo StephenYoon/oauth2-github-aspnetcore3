@@ -5,4 +5,9 @@
     <RootNamespace>SimpleTalk_GitHubOAuth2</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Octokit" Version="0.48.0" />
+  </ItemGroup>
+
 </Project>
