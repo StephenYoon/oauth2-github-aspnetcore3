@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>SimpleTalk_GitHubOAuth2</RootNamespace>
+    <UserSecretsId>a6acca43-6c4b-45d3-8611-2ee888701153</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
